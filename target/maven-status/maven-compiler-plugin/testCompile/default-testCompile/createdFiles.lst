@@ -1,0 +1,4 @@
+org\example\pages\Registration.class
+org\example\stepDefinitions\RegistrationStepDef.class
+org\example\stepDefinitions\Hooks.class
+org\example\testRunner\runners.class
